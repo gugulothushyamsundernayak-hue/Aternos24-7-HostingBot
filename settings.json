@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "BOXRNG.aternos.me",
-    "port": 36323,
+    "ip": "ENJOYMC.aternos.me",
+    "port": 48982,
     "version": "1.21.1",
     "try-creative": false
   },
